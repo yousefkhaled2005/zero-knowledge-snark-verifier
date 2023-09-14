@@ -1,0 +1,7 @@
+[package]
+name = "zk-snark-verifier"
+version = "0.1.0"
+edition = "2021"
+[dependencies]
+ark-bls12-381 = "0.4"
+ark-groth16 = "0.4"
